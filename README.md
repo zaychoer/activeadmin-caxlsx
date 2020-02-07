@@ -1,5 +1,11 @@
 # Active Admin Axlsx
 
+## Notice: Community Axlsx Organization
+
+To better maintain the Axlsx ecosystem, all related gems have been forked or moved to the following community organization: http://github.com/caxlsx
+
+[Join the Caxlsx Slack channel](https://join.slack.com/t/caxlsx/shared_invite/enQtOTI5OTM0MzI1Njk5LTBlMDQzNDk2YzkwODMxMmVkODMyYzJiZGU5NTQ3YTg5NTBlN2IwZTlmNTRjNzhiY2E0MDY2OTEyYmFlODI5NjA)
+
 ## Synopsis
 
 This gem provides automatic OOXML (xlsx) downloads for Active Admin
